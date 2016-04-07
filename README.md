@@ -3,8 +3,8 @@
 ## Build & Run ##
 
 ```
-cd {project location}
-$ sbt
+> cd {project location}
+> sbt
 > ~jetty:start
 ```
 
