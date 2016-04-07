@@ -8,4 +8,4 @@
 > ~jetty:start
 ```
 
-[http://localhost:8080/](http://localhost:8080/flowers) in your browser.
+[http://localhost:8080/flowers](http://localhost:8080/flowers) in your browser.
